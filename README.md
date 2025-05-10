@@ -8,9 +8,6 @@ Welcome to the **CO2 Emissions Prediction** project, a Python-based machine lear
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 - **Data Visualization**: Scatter plot of engine size vs. CO2 emissions for exploratory analysis.
@@ -95,30 +92,3 @@ The dataset (`FuelConsumption.csv`) contains vehicle data with the following rel
 - `CO2EMISSIONS`: CO2 emissions in grams per kilometer.
 
 Source: [IBM Developer Skills Network](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/FuelConsumptionCo2.csv).
-
-## Contributing
-We welcome contributions to enhance the **CO2 Emissions Prediction** project! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-**Ideas for Contributions**:
-- Add support for other regression models (e.g., polynomial regression, random forest).
-- Include additional features from the dataset (e.g., fuel type).
-- Implement cross-validation for more robust model evaluation.
-- Add interactive input for custom predictions.
-- Enhance visualizations with additional plots (e.g., residual plots).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Thanks to the IBM Developer Skills Network for providing the dataset.
-- Built with ❤️ using Python, NumPy, Pandas, Matplotlib, and Scikit-learn.
-- Appreciation to the open-source community for tools and inspiration.
-
----
-
-Explore the **CO2 Emissions Prediction** project and experiment with machine learning! If you have questions, suggestions, or issues, please open an issue on GitHub. Happy coding!
