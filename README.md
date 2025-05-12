@@ -1,6 +1,6 @@
-# Prediction of CO2 Emissions
+# CO2 Emissions Prediction
 
-Welcome to the **Prediction of CO2 Emissions** project, a Python-based machine learning application that predicts CO2 emissions of vehicles based on their engine size, cylinders, and fuel consumption. Using linear regression, this project analyzes a dataset to model the relationship between vehicle attributes and CO2 emissions, providing insights into environmental impact. It's a great example for learning regression modeling and data analysis with Python.
+Welcome to the **CO2 Emissions Prediction** project, a Python-based machine learning application that predicts CO2 emissions of vehicles based on their engine size, cylinders, and fuel consumption. Using linear regression, this project analyzes a dataset to model the relationship between vehicle attributes and CO2 emissions, providing insights into environmental impact. It's a great example for learning regression modeling and data analysis with Python.
 
 [Visit Live Project](https://colab.research.google.com/drive/1RJ4rCPlAdNs2Js6Ne2JQowET_Sz-K56s?usp=sharing)
 
