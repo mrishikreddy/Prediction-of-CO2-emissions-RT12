@@ -24,7 +24,7 @@ To set up the **CO2 Emissions Prediction** project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/co2-emissions-prediction.git
+   git clone https://github.com/mrishikreddy/Prediction-of-CO2-emissions-RT12.git
    cd co2-emissions-prediction
    ```
 
